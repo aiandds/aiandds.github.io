@@ -128,5 +128,6 @@ body {
     font-size: 40px;
     font-weight: bolder;
     letter-spacing: 12px;
+    word-spacing: 20px;
     color: #FF00AC;
 }
